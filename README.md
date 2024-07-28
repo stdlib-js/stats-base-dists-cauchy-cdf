@@ -65,13 +65,18 @@ where `x0` is the location parameter and `gamma > 0` is the scale parameter.
 ## Usage
 
 ```javascript
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-cauchy-cdf/tags). For example,
+
+```javascript
 import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@v0.2.2-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@deno/mod.js';
 ```
 
 #### cdf( x, x0, gamma )
@@ -139,7 +144,7 @@ y = mycdf( 12.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@v0.2.2-deno/mod.js';
+import cdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-cdf@deno/mod.js';
 
 var gamma;
 var x0;
