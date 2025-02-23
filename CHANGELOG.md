@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-22)
+## Unreleased (2025-02-23)
+
+<section class="features">
+
+### Features
+
+-   [`8fa3827`](https://github.com/stdlib-js/stdlib/commit/8fa382766ef9fac1355c9ad98cf3e81f47387016) - add C implementation of `stats/base/dists/cauchy/cdf` [(#4389)](https://github.com/stdlib-js/stdlib/pull/4389)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`8fa3827`](https://github.com/stdlib-js/stdlib/commit/8fa382766ef9fac1355c9ad98cf3e81f47387016) - **feat:** add C implementation of `stats/base/dists/cauchy/cdf` [(#4389)](https://github.com/stdlib-js/stdlib/pull/4389) _(by Vinit Pandit, stdlib-bot, Philipp Burckhardt)_
 -   [`f2d2150`](https://github.com/stdlib-js/stdlib/commit/f2d21507493d82265ec30daa3aa00a0829e902c9) - **bench:** refactor random number generation in `stats/base/dists/cauchy` [(#4850)](https://github.com/stdlib-js/stdlib/pull/4850) _(by Karan Anand)_
 
 </details>
@@ -24,9 +35,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
+-   Vinit Pandit
 
 </section>
 
