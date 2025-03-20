@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-23)
+## Unreleased (2025-03-20)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5431](https://github.com/stdlib-js/stdlib/issues/5431)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`30f9a5f`](https://github.com/stdlib-js/stdlib/commit/30f9a5fbdad8cb9baa5aa8ceca731afaf6866ef2) - **chore:** address commit comments [(#6192)](https://github.com/stdlib-js/stdlib/pull/6192) _(by MANI)_
 -   [`8fa3827`](https://github.com/stdlib-js/stdlib/commit/8fa382766ef9fac1355c9ad98cf3e81f47387016) - **feat:** add C implementation of `stats/base/dists/cauchy/cdf` [(#4389)](https://github.com/stdlib-js/stdlib/pull/4389) _(by Vinit Pandit, stdlib-bot, Philipp Burckhardt)_
 -   [`f2d2150`](https://github.com/stdlib-js/stdlib/commit/f2d21507493d82265ec30daa3aa00a0829e902c9) - **bench:** refactor random number generation in `stats/base/dists/cauchy` [(#4850)](https://github.com/stdlib-js/stdlib/pull/4850) _(by Karan Anand)_
 
@@ -35,9 +48,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   MANI
 -   Philipp Burckhardt
 -   Vinit Pandit
 
