@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5431](https://github.com/stdlib-js/stdlib/issues/5431)
+[#3479](https://github.com/stdlib-js/stdlib/issues/3479), [#5431](https://github.com/stdlib-js/stdlib/issues/5431)
 
 </section>
 
