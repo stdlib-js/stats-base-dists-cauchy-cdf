@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-14)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`564b95d`](https://github.com/stdlib-js/stdlib/commit/564b95d10f2ba27c7ecc0db98712df489458c657) - **bench:** refactor to use string interpolation in `stats/base/dists/cauchy` [(#10249)](https://github.com/stdlib-js/stdlib/pull/10249) _(by Vishal Gaikwad, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vishal Gaikwad
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
